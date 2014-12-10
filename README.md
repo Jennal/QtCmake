@@ -9,6 +9,7 @@ Build & Run
 ### MacOSX
 
 ```
+$ mkdir build
 $ cd build
 $ cmake ..
 $ make
